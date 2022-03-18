@@ -16,18 +16,6 @@ $(document).ready(function(){
     })
 }) 
 
-// $(document).ready(function(){
-//     $("#toggle-menu").click(function(){
-//         $('#collapse-menu').toggle();
-//     })
-// })
-
-// $(document).ready(function(){
-//     $("#close-collapse-menu").click(function(){
-//         $('#collapse-menu').hide('fast');
-//     })
-// })
-
 function openNav() {
     document.getElementById("collapse-menu").style.width = "400px";
     document.getElementById("collapse-menu").style.height = "100vh";
@@ -41,14 +29,6 @@ function openNav() {
     document.getElementById("collapse-menu").style.marginRight = "-400px";
     document.querySelector("body").style.overflowY = "scroll";
   }
-
-
-
-
-
-// toggle.addEventListener('click', () => {
-//     navbar.classList.toggle('active')
-// });
 
 
 SmoothScroll({
@@ -317,17 +297,6 @@ $(document).ready(function(){
 
 });
 
-
-// var docWidth = document.documentElement.offsetWidth;
-
-// [].forEach.call(
-//   document.querySelectorAll('*'),
-//   function(el) {
-//     if (el.offsetWidth > docWidth) {
-//       console.log(el);
-//     }
-//   }
-// );
 
 
 $("#show-p").hide();
