@@ -81,64 +81,64 @@ SmoothScroll({
 
 
 
-$(document).ready(function(){
-  $('.slick_slider').slick({
-    infinite: true,
-    slidesToShow: 1,
-    slidesToScroll: 1,
-    arrows:true,
-    centerMode: true,
-    centerPadding: '0 90px 40px 0',
+// $(document).ready(function(){
+//   $('.slick_slider').slick({
+//     infinite: true,
+//     slidesToShow: 1,
+//     slidesToScroll: 1,
+//     arrows:true,
+//     centerMode: true,
+//     centerPadding: '0 90px 40px 0',
     
-    responsive: [
-      {
-        breakpoint: 1024,
-        settings: {
-          slidesToShow: 1,
-          slidesToScroll: 1,
-          infinite: true,
-          centerMode: true,
-          centerPadding: '0',
-        }
-      },
-      {
-        breakpoint: 1024,
-        settings: {
-          slidesToShow: 1,
-          slidesToScroll: 1,
-          centerMode: true,
-          centerPadding: '0',
-          arrows: false
-        }
-      },
-      {
-        breakpoint: 600,
-        settings: {
-          slidesToShow: 1,
-          slidesToScroll: 1,
-          centerMode: true,
-          centerPadding: '0',
-          arrows: false
-        }
-      },
-      {
-        breakpoint: 480,
-        settings: {
-          slidesToShow: 1,
-          slidesToScroll: 1,
-          centerMode: true,
-          centerPadding: '0',
-          arrows: false
-        }
-      }
+//     responsive: [
+//       {
+//         breakpoint: 1024,
+//         settings: {
+//           slidesToShow: 1,
+//           slidesToScroll: 1,
+//           infinite: true,
+//           centerMode: true,
+//           centerPadding: '0',
+//         }
+//       },
+//       {
+//         breakpoint: 1024,
+//         settings: {
+//           slidesToShow: 1,
+//           slidesToScroll: 1,
+//           centerMode: true,
+//           centerPadding: '0',
+//           arrows: false
+//         }
+//       },
+//       {
+//         breakpoint: 600,
+//         settings: {
+//           slidesToShow: 1,
+//           slidesToScroll: 1,
+//           centerMode: true,
+//           centerPadding: '0',
+//           arrows: false
+//         }
+//       },
+//       {
+//         breakpoint: 480,
+//         settings: {
+//           slidesToShow: 1,
+//           slidesToScroll: 1,
+//           centerMode: true,
+//           centerPadding: '0',
+//           arrows: false
+//         }
+//       }
      
-    ]
-  });
+//     ]
+//   });
 
   
   
 
-});
+// });
 
 
 $(document).ready(function(){
@@ -328,6 +328,7 @@ $(document).ready(function(){
 //     }
 //   }
 // );
+
 
 $("#show-p").hide();
     $("#show-checkdiv").hide();
