@@ -34,9 +34,8 @@ Technologies that are used in this template:
 ## Features
 Features of website are:
 1. The website is fully responsive by using Bootstrap and media-queries 
-2. In all devices navbar is shown as a right toggle.
-3. Hover effects on buttons, links and images.
-4. Ken Wheeler slick slider.
-5. Smooth scroll by js.
-6. Mixins that are used for hover effect of buttons as well as links.
-7. Smooth appereance of submit box on input focus. 
+2. There is toggle menu on the right side for all devices. For small devices left side navbar elements are also hidden inside the toggle bar.
+3. You can see some hover effects for links, images and also buttons which are created in SCSS by mixin templates.
+4. Ken Wheeler's slick slider is used for showing the car models, stories section and also some images in the last sections of webpage.
+5. There is smooth scroll which is also built in JavaScript.
+7. You can see smooth appearance of section when you focus on input.
