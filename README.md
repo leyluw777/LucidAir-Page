@@ -1,30 +1,39 @@
-Responsive one page website template, coded by me using the design from the old version of official Lucid motors website https://www.lucidmotors.com/air/design
+# Lucid air website template
 
-Demo: https://leyluw777.github.io/LucidAir-Page/
+**Responsive one page website template, coded by me using the design from the old version of official Lucid motors website:** https://www.lucidmotors.com/air/design
 
+***Demo:*** https://leyluw777.github.io/LucidAir-Page/
+
+<br /> 
+
+## Brief description
+As it was mentioned before, the website was created from the official Lucid motors site with the purpose of perfection styling skills. You can see a lot of different effects, that will be shown below. <br/>
 Contents: 
-1. Header
-Header contains the first part of page and toggle navbar.
-2. Sections
-a) First section contains first slick slider.
-b) Second section contains next part of text with fixed attached background.
-c) Third section contains all part with gray bg (slick slider, info photos, slick slider).
-d) Fourth section is contact part.
-3. Footer 
-The last part with the all links are in the footer.
+1. Header <br/>
+   - Header contains the first part of page and toggle navbar.
+2. Sections <br/>
+   - First section contains first slick slider. <br/> 
+   - Second section contains next part of text with fixed attached background. <br/>
+   - Third section contains all part with gray bg (slick slider, info photos, slick slider). <br/>
+   - Fourth section is contact part. <br/>
+3. Footer <br/>
+   - The last part with the all links are in the footer.<br/>
+   
+<br />
 
-
+## Technologies
 Technologies that are used in this template: 
-1. HMTL
-2. Sass
-3. Media queries
-3. Bootstrap
-4. Javascript
-5. JQuery
+* HMTL
+* SCSS
+* Bootstrap
+* JavaScript
+* JQuery
 
+<br />
 
-Features of website:
-1. Fully responsive website.
+## Features
+Features of website are:
+1. The website is fully responsive by using Bootstrap and media-queries 
 2. In all devices navbar is shown as a right toggle.
 3. Hover effects on buttons, links and images.
 4. Ken Wheeler slick slider.
