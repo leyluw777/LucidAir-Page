@@ -5,7 +5,7 @@
 ***Demo:*** https://leyluw777.github.io/LucidAir-Page/
 
 <br /> 
-!(doc_img/lg.png)
+!(/doc_img/lg.png)
 
 ## Brief description
 As it was mentioned before, the website was created from the official Lucid motors site with the purpose of perfection styling skills. You can see a lot of different effects, that will be shown below. <br/>
